@@ -1,3 +1,7 @@
+<!-- npm create vuetify
+npm install @mdi/font -D
+npm i vue-chartjs chart.js
+npm run dev -->
 <template>
   <v-app
     id="inspire"
